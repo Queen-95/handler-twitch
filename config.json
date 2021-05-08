@@ -1,0 +1,10 @@
+{
+  "owners": [
+    "YOUR_TWITCH_NAME"
+  ],
+  "username": "Bot_USERNAME",
+  "password": "BOT OAUTH PASSWORD",
+  "channels": [
+    "YOUR_CHANNEL_NAME twitch.tv/CHANNEL_NAME"
+  ]
+}

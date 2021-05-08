@@ -1,0 +1,31 @@
+{
+  "name": "handler-twitch-bot.js",
+  "version": "1.0.0",
+  "description": "Handler For TMI.JS",
+  "main": "main.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordAlex2015/handler-twitch.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Handler",
+    "Javascript"
+  ],
+  "author": "ArviX#8443",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LordAlex2015/handler-twitch/issues"
+  },
+  "homepage": "https://github.com/LordAlex2015/handler-twitch#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fidget": "^0.4.9",
+    "figlet": "^1.5.0",
+    "tmi.js": "^1.8.3"
+  }
+}
