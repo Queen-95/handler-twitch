@@ -1,10 +1,10 @@
 {
   "owners": [
-    "YOUR_TWITCH_NAME"
+    "shinyumiii"
   ],
-  "username": "Bot_USERNAME",
-  "password": "BOT OAUTH PASSWORD",
+  "username": "qlfttv",
+  "password": "oauth:t4kz3wcxeqx8gmvsmc0jhdqt4tbjg4",
   "channels": [
-    "YOUR_CHANNEL_NAME twitch.tv/CHANNEL_NAME"
+    "shinyumiii"
   ]
 }
